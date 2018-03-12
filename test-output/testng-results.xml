@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="58834" started-at="2018-03-05T10:22:37Z" finished-at="2018-03-05T10:23:36Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="58834" started-at="2018-03-05T10:22:37Z" finished-at="2018-03-05T10:23:36Z">
+      <class name="samplejen.Jenkins_Test">
+        <test-method status="PASS" signature="jenkinsSample()[pri:0, instance:samplejen.Jenkins_Test@685cb137]" name="jenkinsSample" duration-ms="25644" started-at="2018-03-05T15:53:10Z" finished-at="2018-03-05T15:53:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- jenkinsSample -->
+      </class> <!-- samplejen.Jenkins_Test -->
+      <class name="samplejen.Jenkins_Test$Test1">
+        <test-method status="PASS" signature="invokeBrowser()[pri:0, instance:samplejen.Jenkins_Test$Test1@6d4b1c02]" name="invokeBrowser" duration-ms="33090" started-at="2018-03-05T15:52:37Z" finished-at="2018-03-05T15:53:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invokeBrowser -->
+      </class> <!-- samplejen.Jenkins_Test$Test1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
