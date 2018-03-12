@@ -17,7 +17,7 @@ import org.testng.annotations.Test;
 
 public class Jenkins_Test {
 	public WebDriver driver;
-	
+
 	
 	Properties prop = new Properties();
 
